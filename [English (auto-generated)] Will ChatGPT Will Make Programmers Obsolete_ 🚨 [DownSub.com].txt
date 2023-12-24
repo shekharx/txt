@@ -1,0 +1,1314 @@
+the end of programming is within sight I
+
+wish this were hyperbole when I first
+
+started doing the research for this
+
+video I had a very different idea of
+
+what the outcome was going to be but
+
+after thinking through this so much
+
+doing a bunch of research I have come to
+
+the conclusion that programming as we
+
+know it is going to die and I'm going to
+
+explain how I arrived at that reasoning
+
+and I'm going to show you exactly why I
+
+think that way so let's go through it if
+
+you want to find the slides in this
+
+video I'll drop them in the description
+
+below and if you disagree with with
+
+anything in the slides please let me
+
+know in the comments first I want to
+
+give a shout out to Matt Welsh who did
+
+an incredible talk called large language
+
+models and the end of programming and if
+
+you haven't seen it I'll link it in the
+
+description below I definitely recommend
+
+checking it out I was very inspired by
+
+it I want to start with three things
+
+that I know to be true first coding is
+
+by far the best skill set that I ever
+
+learned now I started my programming
+
+career back when I was in high school
+
+and I was always obsessed with video
+
+games and and computers and I wanted to
+
+know how they worked and the idea that I
+
+could build my own video game blew my
+
+mind and so I did everything I could to
+
+learn how to code myself and when I got
+
+a little bit older right out of college
+
+coding allowed me to take my ideas and
+
+build whatever I wanted and I didn't
+
+have to rely on anybody else and this
+
+was really key I was always thinking of
+
+new ideas and wanted to build something
+
+and having to rely on somebody else to
+
+build my vision just did not work for me
+
+and I could really build as quickly as
+
+my passion drove me to do so and that
+
+led me after multiple failed startups to
+
+one that was actually successful my
+
+previous company called sonar I started
+
+sonar by myself wrote all of the initial
+
+code got the first customers and then of
+
+course I brought on an incredible team
+
+to help me build it into what it became
+
+but it all started with a conversation
+
+with a friend of mine who had this
+
+problem and I told them hey let me try
+
+to solve that for you using software and
+
+that led to the next 10 years of my life
+
+building out that company but the key is
+
+I was able to just have a conversation
+
+and then in the same day I was building
+
+the second thing I know for sure coding
+
+is very hard even after 20 plus years of
+
+doing it it is extremely difficult for
+
+me I mean python package management
+
+continues to be the bane of my existence
+
+and it seems to be hard for most people
+
+for those who can get over the fear of
+
+even starting to learn it there's a huge
+
+learning CR nerve coding requires you to
+
+think through every possible permutation
+
+of a problem for in some cases extremely
+
+complex systems and then you have to
+
+write down all of these instructions in
+
+a language that is very foreign and
+
+doesn't come naturally and of course
+
+bugs are really hard to see when you're
+
+actually in the code and number three
+
+because of everything I mentioned humans
+
+are just really bad at coding at least
+
+most are the human brain isn't really
+
+wired to keep every single edge case
+
+every every single permutation of a
+
+complex system that's why we write code
+
+in little batches and then try to put
+
+all of these different batches together
+
+and if you think coding was hard today
+
+you have no idea how hard coding was
+
+back in the day look at these two
+
+pictures on the left we have computers
+
+that basically took up entire rooms and
+
+then on the right software had to be
+
+actually physically punched into these
+
+cards and then it got a little easier of
+
+course we started with brittle
+
+unforgiving syntax manual memory
+
+management and thinking about every
+
+single bite but it got easier we have
+
+now expressive languages Dynamic
+
+languages metaprogramming automatic
+
+memory management and a wide range of
+
+very powerful tools to help us because
+
+we are so bad at coding look at what we
+
+started with on the left we have
+
+assembly code and it is not friendly to
+
+humans then we got basic and it became a
+
+little bit easier you can start to see
+
+it looks a little bit like natural
+
+language then we had C and Java
+
+JavaScript and things became easier and
+
+we had more libraries and we were able
+
+to have objectoriented programming and
+
+we started to craft programming in a way
+
+that made it easier for humans to
+
+understand and now we have more modern
+
+programming languages like Python and go
+
+which if you look at them they look
+
+pretty similar to natural language
+
+obviously not perfect and if you miss a
+
+character here and there the software is
+
+still not going to work but it is
+
+definitely a lot better than it used to
+
+be we've even had enormous advancements
+
+en coding tools so we have better idees
+
+and Engineers can have every
+
+customization that they could possibly
+
+think of we have linters we have Cloud
+
+editors so you can collaborate with
+
+other people anywhere in the world
+
+versioning so we can keep track of where
+
+we are in our progress we can also
+
+revert changes if we make a mistake we
+
+have automation we have tests we have
+
+package management even though that
+
+doesn't really work all that well still
+
+for python syntax highlighting potential
+
+bug warnings I mean we really do have a
+
+wide range of tools that we could use
+
+today but programming is still super
+
+hard and then in 2022 GitHub co-pilot
+
+changed everything for $10 a month you
+
+can have an AI assistant to help you
+
+write code it was incredibly impressive
+
+right away just write a few words and it
+
+will complete entire methods for you and
+
+there were enormous productivity gains
+
+from this and better code was being
+
+written I really cannot overstate how
+
+important GitHub co-pilot is and when we
+
+look back at the history of programming
+
+Evolution GitHub co-pilot is going to be
+
+an inflection point and co-pilot is not
+
+just guessing at what you're writing
+
+it's looking at the context of the file
+
+the context of the entire code base it
+
+truly is incredibly impressive and in
+
+Matt Welsh's talk he gives a great
+
+analogy the way that GitHub co-pilot
+
+changed programming pretty much
+
+overnight is analogous to if we had pong
+
+and then all of a sudden a month later
+
+later Red Dead Redemption 2 like that
+
+type of Graphics evolution is
+
+essentially what we got with programming
+
+with GitHub co-pilot and there's a lot
+
+of reasons why GitHub co-pilot had such
+
+a big productivity gain and I can't
+
+imagine programming without it anymore
+
+it allows me to stay in the zone of
+
+programming so a day before co-pilot
+
+came out if I had to write some code and
+
+I wasn't sure how to write it or I
+
+didn't know how to access a piece of
+
+data in a Json object I would go to
+
+stack Overflow I would Google it I would
+
+try to figure it out and it would take a
+
+lot of time I would essentially leave my
+
+IDE lose my train of thought go figure
+
+it out and then try to get back into the
+
+flow of coding but now I don't have to
+
+do that all I do is either type out what
+
+I want and it creates it for me or I
+
+start typing what I want and it will
+
+just fill out the rest it greatly
+
+reduces the amount of trial and error
+
+and you don't have to remember every
+
+single syntax you can just start writing
+
+something and it will fill out the rest
+
+coding has become so much less tedious
+
+because of GitHub co-pilot so let me
+
+show you what my coding workflow is and
+
+granted I'm not building production
+
+level applications anymore I haven't
+
+done that in a couple years but I am
+
+still coding every single day testing
+
+out AI projects so I still do a lot of
+
+coding but here's my coding workflow
+
+first I asked chat GPT to write me some
+
+code I am not shy about admitting that
+
+the first thing I do especially with
+
+python because prior to about a year ago
+
+I had no experience with python I just
+
+asked chat GPT to write it for me then I
+
+paste it into my code base and I test if
+
+it works then after that I basically
+
+weave the different pieces together with
+
+co-pilot co-pilot fills in all the gaps
+
+for me and this is me in the middle the
+
+orchestrator that's all I do I'm
+
+basically orchestrating AI to write
+
+software for me and it turns out AI is
+
+actually much better at coding than
+
+humans for a lot of reasons first let's
+
+say you're a software company and you
+
+can either hire a human with a salary
+
+who takes breaks who has wants and needs
+
+who needs benefits health insurance
+
+onboarding time I mean the list goes on
+
+versus you can just easily spin up a new
+
+AI to write more code and AI scales
+
+horizontally incredibly easily and AI
+
+coders are not only much faster at
+
+coding but they're much less expensive
+
+too software Engineers take years of
+
+training to become good AI is going to
+
+be trained once and it's going to be
+
+good no matter how much you scale that
+
+horizontally and AI is really good at
+
+the things I personally struggle with
+
+with like finding the right way to
+
+access data that's hidden deep in a Json
+
+object or remembering the Syntax for
+
+some random piece of code that I have to
+
+write now I'm going to show you a clip
+
+of Matt Welsh's talk and he actually
+
+does some math to figure out the
+
+difference and cost between a human
+
+programmer and an AI programmer take a
+
+look how much does it cost to replace
+
+one human developer with AI well I did
+
+the math so let's say that a typical
+
+software engineer salary in Silicon
+
+Valley or Seattle is around 220,000 a
+
+year that's just the base salary doesn't
+
+include benefits doesn't include Equity
+
+packages doesn't include your free lunch
+
+and your bowling alley and all that kind
+
+of stuff so let's just assume that that
+
+stuff cost you know
+
+92k a year this is again a little
+
+conservative so the total cost to your
+
+employers roughly 300
+
+312k for One S how many working days are
+
+there in a year about 260 and so it
+
+costs $1,200 a day to employ you as a s
+
+at one of these companies let's do the
+
+math how many lines of code do you think
+
+an average developer checks into the
+
+code base every day I mean finalized
+
+tested reviewed and approved lines of
+
+code most of us who've worked in
+
+Industry know that the uh the median
+
+value is zero because there's so many
+
+days that you go by where you're waiting
+
+on somebody else or you're in meetings
+
+all day you didn't get anything done you
+
+didn't check it in but let's just be
+
+generous here and say it's about a 100 I
+
+know 100 doesn't sound like a lot people
+
+are like but I was programming all day
+
+yes but 90% of your code you ended up
+
+throwing out or somebody reviewed it and
+
+said it was no good you have to rewrite
+
+it you were trying to figure out what to
+
+do you were revamping it so like the
+
+final result of your output is something
+
+like a 100 lines of code a day that's
+
+the final result how many gpt3 model
+
+tokens is that it's about 10 uh tokens
+
+per line more or less so and the cost
+
+for gpt3 current actually this is
+
+probably a little out of date but at the
+
+time I made this slide it was 2 cents
+
+for ,000 tokens so if you do the math
+
+then the total cost for the output of
+
+one human software developer on gpt3 is
+
+12 cents this is a factor of 10,000 this
+
+should scare us
+
+all right this suggests potentially a
+
+very large shift in our industry now
+
+obviously this is super rough math and I
+
+think one thing that he missed is that
+
+he assumes that AI just needs to write
+
+code once and and it'll just work and
+
+that is just not the case especially
+
+when you have teams of Agents they're
+
+going to be working with each other and
+
+iterating on their own code so I don't
+
+think the cost is as simple as he put it
+
+but still it's a good illustration of
+
+the exponential difference in cost
+
+between a human programmer and an AI
+
+programmer but today AI coding still has
+
+a lot of limitations one of them is
+
+context window limitations so how do you
+
+take huge code bases and allow a large
+
+language model to understand the entire
+
+code basee all in one go you can't
+
+simply copy the whole code base you're
+
+just going to be limited by the token
+
+size and also even if you were able to
+
+fit an entire codebase in a prompt
+
+there's this thing called Lost in the
+
+Middle where basically large language
+
+models can remember things at the
+
+beginning and at the end of prompts but
+
+often struggle with remembering things
+
+in the middle and right now the biggest
+
+bottleneck for AI getting better is data
+
+companies don't want to share their code
+
+and humans can only write so much code
+
+but that's going to to change and I'll
+
+explain that in a minute and last large
+
+language models are often not up todate
+
+with the latest apis and stks and
+
+current solutions to fix that like
+
+retrieval augmented generation and web
+
+crawling are pretty brittle but as I
+
+mentioned it is getting better and we're
+
+going to have this Snowball Effect
+
+especially with data and synthetic data
+
+so I mentioned the current bottleneck is
+
+data but it's also compute but I'm not
+
+even worried about compute the compute
+
+bandwidth will grow especially with all
+
+this investment in silicon that is why
+
+Nvidia is a massive company now and the
+
+data will grow too I've been talking a
+
+lot about synthetic data recently and
+
+this is a great example first as humans
+
+are able to write more code with AI
+
+tools assisting them all of that code
+
+can go back into models to train them to
+
+be better and not only that as AI writes
+
+code and at a much faster rate than a
+
+human ever could all of that new code
+
+will go back into the model to make it
+
+better at coding and so we do have this
+
+nice snow ball effect as everybody
+
+becomes more productive at coding and
+
+more code gets written all of that code
+
+will be fed back into the AI models to
+
+make them better and so there are a few
+
+solutions to the current limitations one
+
+is codebase mapping or compression
+
+basically taking massive code bases and
+
+mapping them using shorthand that large
+
+language models can understand a project
+
+that I've reviewed that does this really
+
+well is called AER a i d and they use
+
+something called Universal cags to
+
+Define in shorthand all of the methods
+
+and all of the code that you have in
+
+your code base and then is able to feed
+
+that very compressed mapped version into
+
+a large language model so it can
+
+actually understand an entire code base
+
+this is also why most AI coding projects
+
+want you to start from scratch and can't
+
+iterate on existing code bases it's for
+
+this exact problem but this problem will
+
+be solved whether it's from increased
+
+context sizes solving the lost in
+
+the-middle problem or mapping and
+
+compressing code bases so that large
+
+language models can understand them
+
+easily and then also we're going to be
+
+fine-tuning models specific to coding
+
+tasks so we're going to take these
+
+models that were already good at coding
+
+and we're going to make them even better
+
+now what will coding look like in the
+
+near future and this is what I believe
+
+there's going to be a human project
+
+manager who takes the requirements from
+
+the business side and puts it into a
+
+format that a large language model can
+
+understand then that human project
+
+manager is going to feed it into an AI
+
+agent team so that team will have coders
+
+testers project managers of their own
+
+but it's all going to be Ai and they're
+
+going to write the code they're going to
+
+iterate on it they're going to test it
+
+themselves and then finally all of that
+
+is going to be fed to a human quality
+
+assurance person so somebody who's going
+
+to make sure it checks all the boxes the
+
+functionality that is required and then
+
+it's going to go back to the human pm to
+
+think about new features that they want
+
+to release after talking to users but
+
+what's missing from this diagram can you
+
+see it already there are no programmers
+
+well no human programmers that is and
+
+it's true in the near future I don't
+
+think there's going to be human
+
+programmers on most projects and I'll
+
+talk about what those timelines look
+
+like a little bit later and don't
+
+believe me it's already happening so
+
+here's a tweet from amjad mad at a
+
+hackathon where a winner is a
+
+non-technical PM and her work powered by
+
+repet plus AI is more technically
+
+impressive than teams of Engineers I was
+
+surprised at first but it struck me that
+
+PMS must be except ceptional prompting
+
+after all that is their job so somebody
+
+at a hackathon who was non-technical a
+
+product manager was able to win the
+
+hackathon and this is who it was she
+
+replied to that post hello I had a lot
+
+of fun building docu talk with repet and
+
+a huge fan repet has collapsed the
+
+distance between a vision in my head and
+
+a fully functional product so if she had
+
+no coding ability whatsoever she was
+
+able to take the ideas in her head and
+
+Implement them us using software so so
+
+impressive and venard kosla from kosla
+
+Ventures the founder of kosla Ventures
+
+who has had his hand in so many massive
+
+Silicon Valley success stories has this
+
+to say portfolio companies open Ai and
+
+repet set this off a total Paradigm
+
+Shift no surprise a marketing person
+
+just won a coding competition this was
+
+in response to that post by amjad and
+
+actually venard kosla put together a
+
+list of predictions for the future and
+
+one of them is prediction number too
+
+there could be a billion programmers all
+
+programming in natural language many
+
+parts of the craft of coding would be
+
+commoditized and the entire field would
+
+be opened up to those without SCS degree
+
+democratizing computer coding is well on
+
+its way in the next 10 to 15 years he
+
+says there could be a billion
+
+programmers but I don't even think we
+
+should call them programmers at that
+
+point and I'll tell you why in a moment
+
+here's another one Dr Jim fan chat gbt
+
+turns one today a year that felt like a
+
+decade and I just want to read the top
+
+bullet point English as the hot modest
+
+new programming language natural
+
+language that is the future of
+
+programming and the best part is anybody
+
+who speaks English could get computers
+
+to do exactly what they want but it's
+
+not all rainbows and unicorns right now
+
+there's still a lot of friction with
+
+using AI coding some of which I've
+
+already touched on and I thought this
+
+was such a funny meme so days before
+
+open AI developer coding 2 hours
+
+developer debugging 6 hours then days
+
+after open AI chat GPT generates code in
+
+5 minutes developer debugging 24 hours
+
+so this still does happen it's not as
+
+bad as this but this is funny and I just
+
+wanted to show it to you and Bindu ready
+
+had something to say about it as well
+
+English is the new programming language
+
+but it has its own challenges prompting
+
+is very brittle so you change the prompt
+
+to accommodate one age case and another
+
+will break very similar to how coding
+
+works today and prompting is going to
+
+need versioning testing monitoring and
+
+evaluation and these are all tools that
+
+are just starting to be built right now
+
+so I do believe in the short term and
+
+and probably the midterm humans need to
+
+be in the loop to just make sure the
+
+software is behaving exactly like
+
+expected here's an example that's
+
+available today take a look at this
+
+video This is called Jarvis by McKay
+
+Wrigley and all he does is speak about
+
+what he wants built and the entire
+
+software stack is built for him run
+
+Jarvis yes I need another next St with
+
+Tailwind one sec you want me to create a
+
+new nextjs app with tailn CSS yes one
+
+moment what would you like the app to do
+
+this time I want a basic social
+
+networking app and it needs to have
+
+three things it needs to have a profile
+
+creation form it needs to have a profile
+
+viewer and I also want a way to see all
+
+the users on the network one sec you
+
+want a basic social networking app that
+
+includes a profile creation page a
+
+profile viewer and a list of all the
+
+users what would you like the profiles
+
+to have uh let's keep it kind of simple
+
+let's just do a name an email and and a
+
+username one sec I'll add those fields
+
+to the profile schema what else can I do
+
+I want you to optimize the site so that
+
+it works with mobile and desktop devices
+
+and I also want you to style it in like
+
+a dark mode on it okay I'll optimize it
+
+for both mobile and desktop and style it
+
+in dark mode anything else uh start
+
+building okay I'll start working I
+
+created a new repo called basic social
+
+network continuing I initialized the app
+
+continuing I'm creating a profiles table
+
+in your database continuing I'm building
+
+the features you asked for continuing
+
+the app is building correctly would you
+
+like me to deploy it oh yeah okay
+
+deploying to versal continuing I
+
+deployed your project to versal on M
+
+personal continuing I'm all done wasn't
+
+that fast you should give me a raise
+
+okay if we if we refresh this okay we
+
+have basic social network where's the
+
+just now okay just now it's building
+
+it's building basic social network okay
+
+just building just now you know the
+
+drill this is all live oh let's jump
+
+into super base you should be able to
+
+see yeah see we now guess what we have
+
+now we have a profiles table with the
+
+correct schema boom dark mode Let's see
+
+if it's responsive okay that looks fine
+
+okay now we got to try this out I'm
+
+going to put uh test let's do uh just
+
+test and we'll just do test
+
+gmail.com we should be able to submit
+
+this and this should work profile
+
+created successfully okay okay it shows
+
+the profile you see we have an all
+
+profiles list let's click that okay this
+
+is showing us the profiles now let's go
+
+let's make sure this is responsive it is
+
+it is and if we go to our database it is
+
+in our DB the game has changed everyone
+
+right now we are going through an
+
+explosion of AI coding this is where
+
+we're at right here we're at the very
+
+beginning of it remember GitHub co-pilot
+
+came out only only about a year ago chat
+
+PT just about a year ago but it's going
+
+to grow exponentially and when we get up
+
+to this point there's not going to be
+
+any more programming I'm sad to say and
+
+here's a chart that Ben tossel grabbed
+
+from Google search Trends this is AI
+
+coding search volume over time and as
+
+you could see right at the end of 2022
+
+we had an explosion in people searching
+
+for AI coding tools so that's all right
+
+now and the midterm what about the
+
+long-term I see it being direct natural
+
+language to computation nothing in
+
+between so what does that mean let's
+
+talk about it at the top we have humans
+
+and they are just going to speak in
+
+natural language whatever language they
+
+want that language is going to be
+
+processed and computed by the large
+
+language model and then we're going to
+
+have end devices whatever device it is
+
+whether it's lights around your house
+
+it's your car computers phones anything
+
+the large language model is going to
+
+program those devices to do exactly what
+
+we want so the large language model is
+
+the operating system there are no
+
+programmers anymore humans are the
+
+programmers and since all we have to do
+
+is say what we want I wouldn't even
+
+consider that programming at that point
+
+so there are no programmers no teams
+
+just humans talking to large language
+
+models and so how do we get to this
+
+point we need large language models to
+
+get really good at understanding what
+
+humans want and converting that into
+
+code and they're already really good at
+
+that and today it's the worst it's ever
+
+going to be it's only going to be better
+
+so this is the future this is the end of
+
+programming and what will we need in the
+
+future to be honest I'm not sure I have
+
+a few thoughts maybe computer scientists
+
+to do the really low-level deep
+
+Innovative work maybe will we need
+
+quality assurance well certainly AI can
+
+do a lot of that but maybe we always
+
+want to have a human in the loop at some
+
+point and we probably also want to
+
+verify alignment and that's again
+
+another another example of when humans
+
+need to be in the loop so what's the
+
+timeline for all of this and of course
+
+this is just my estimate in 1 to two
+
+years we are going to have an absolute
+
+explosion in the number of non-technical
+
+people who can write software these are
+
+people who have never written a line of
+
+code in their entire lives they are able
+
+to write software that drives value for
+
+Humanity 5 years from now non-technical
+
+people are going to manage huge teams of
+
+AI agents to build complex software and
+
+again these are people who have never
+
+written a line of code in their life
+
+they're going to have entire teams
+
+entire companies of these AI agents and
+
+then last 10 years from now natural
+
+language to computation also known as
+
+the end of programming so I started this
+
+talk by saying programming was the best
+
+skill I ever learned and I really want
+
+to emphasize how true that is but is
+
+coding still a must-learn skill would I
+
+have my my son and daughter learn how to
+
+code well the answer is yeah I still
+
+would I think learning to code first of
+
+all it's just super interesting second
+
+it teaches you how to think about
+
+problems how to break problems down how
+
+to use logic and reasoning to solve
+
+difficult problems and so yes I still
+
+think learning to code learning computer
+
+science is valuable but what will become
+
+vastly more valuable in the very near
+
+future is learning how to work with AI
+
+to accomplish that coding so thank you
+
+very much and of course I'm sorry I love
+
+programming I want to be clear about
+
+that and it does make me sad to think
+
+about in the very near future in my
+
+lifetime there probably won't be a need
+
+for that skill set anymore let me know
+
+if you agree let me know if you disagree
+
+leave all your thoughts in the comments
+
+below I am going to read them all and
+
+I'm going to respond to them and if you
+
+liked this video please consider giving
+
+a like And subscribe and I'll see you in
+
+the next one
+
